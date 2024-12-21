@@ -19,10 +19,12 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love music
   
-##
+<hr/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&card_width=500)](https://github.com/masunsolar/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&layout=compact&theme=vision-friendly-dark&card_width=500)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&card_width=450)](https://github.com/masunsolar/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&layout=compact&theme=vision-friendly-dark&card_width=550)
+
+<hr/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,10 +35,13 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
   <img align="center" alt="Natan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-##
+<hr/>
 
 <div> 
   <a href="https://www.instagram.com/nathansunrodriguez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="masunsolar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natanrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<hr/>
+<hr/>
