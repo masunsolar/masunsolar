@@ -10,6 +10,14 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 #
 
 <p align="center">
+  <i>Hey, listen</i>
+</p>
+
+<p align="center">
+  <img src="navi2.gif" width="110" height="110" alt="navi"/>
+  <img src="navi2.gif" width="110" height="110" alt="navi"/>
+  <img src="navi2.gif" width="110" height="110" alt="navi"/>
+  <img src="navi2.gif" width="110" height="110" alt="navi"/>
   <img src="navi2.gif" width="110" height="110" alt="navi"/>
 </p>
 
