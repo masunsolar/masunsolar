@@ -18,17 +18,11 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 - 📫 How to reach me: @nathansunrodriguez
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love music
-
+  
 ##
 
-<p align="center">
-  <a href="https://beacons.ai/masunsolar">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&show_icons=true"/>
-  </a> 
-  <a href="https://beacons.ai/masunsolar">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&theme=vision-friendly-dark"/>
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&card_width=500)](https://github.com/masunsolar/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&layout=compact&theme=vision-friendly-dark&card_width=500)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
