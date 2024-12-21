@@ -1,5 +1,5 @@
 <h1 align="left"> Hello there 
-<img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="50" height="60" align="center"  alt="cat"/>
+<img src="navi.gif" width="60" height="60" align="center"  alt="navi"/>
 </h1>
 
 ##
