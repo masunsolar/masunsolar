@@ -10,30 +10,25 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 #
 
 <p align="center">
-  <img src="navi.gif" width="60" height="60" alt="navi"/>
+  <img src="navi2.gif" width="110" height="110" alt="navi"/>
 </p>
 
+- 🔭 I’m currently not working 
+- 🌱 I’m currently learning Python, Java and other 
+- 📫 How to reach me: @nathansunrodriguez
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love music
 
-<!--
-**masunsolar/masunsolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<a href="https://beacons.ai/masunsolar">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&show_icons=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&theme=vision-friendly-dark"/>
-</a>
+<p align="center">
+  <a href="https://beacons.ai/masunsolar">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&show_icons=true"/>
+  </a> 
+  <a href="https://beacons.ai/masunsolar">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&theme=vision-friendly-dark"/>
+  </a>
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
