@@ -2,7 +2,17 @@
 <img src="navi.gif" width="60" height="60" align="center"  alt="navi"/>
 </h1>
 
-##
+I'm Natan S. Rodrigues, a 19-year-old enthusiast of computing, programming, and gaming. Currently pursuing a degree in Computer Science at UniFil and a Full Stack Python course at EBAC, I have a strong foundation in various programming languages including HTML, CSS, JavaScript, Java, C, and Python.
+
+My proficiency extends to Microsoft Office Suite (Word, PowerPoint, Excel) and I have a knack for image and video editing. I was honored to win the Ideathon IntegraQM, showcasing my innovative problem-solving skills.
+
+In my free time, I enjoy listening to music and playing games. I'm passionate about leveraging technology to create impactful solutions and always eager to learn and grow in the tech field.
+#
+
+<p align="center">
+  <img src="navi.gif" width="60" height="60" alt="navi"/>
+</p>
+
 
 <!--
 **masunsolar/masunsolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
