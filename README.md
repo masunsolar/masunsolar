@@ -30,7 +30,7 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 <hr/>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=vision-friendly-dark&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar/github-readme-stats)
 
 <hr/>
 
