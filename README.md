@@ -55,4 +55,5 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 </div>
 
 <hr/>
+<p align="center">&copy; 2024-present <a href="https://github.com/masunsolar/" target="_blank">Maçã</a>
 <hr/>
