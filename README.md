@@ -1,6 +1,16 @@
-<h1 align="left"> Hello there 
-<img src="navi.gif" width="60" height="60" align="center"  alt="navi"/>
-</h1>
+<table>
+  <tr>
+    <td>
+      <img src="" alt="Banner" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h1>Hello there</h1>
+      <img src="navi.gif" width="60" height="60" alt="navi"/>
+    </td>
+  </tr>
+</table>
 
 I'm Natan S. Rodrigues, a 19-year-old enthusiast of computing, programming, and gaming. Currently pursuing a degree in Computer Science at UniFil and a Full Stack Python course at EBAC, I have a strong foundation in various programming languages including HTML, CSS, JavaScript, Java, C, PHP, Pascal, and Python.
 
