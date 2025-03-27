@@ -35,7 +35,9 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar/github-readme-stats)
 
 <hr/>
+<h2>My setup: </h2>
 
+<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i7-13650hx&memory=16gb&gpu=nvidia-geforce-rtx-3050-6gb-laptop-gpu&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/intel-core-i7-13650hx/16gb/nvidia-geforce-rtx-3050-6gb-laptop-gpu/twitch.png"></a>
 
 
 
