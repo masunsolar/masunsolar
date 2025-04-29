@@ -40,7 +40,7 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
     <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i7-13650hx&memory=16gb&gpu=nvidia-geforce-rtx-3050-6gb-laptop-gpu&platform=windows"><img        src="https://www.pcgamebenchmark.com/signature/intel-core-i7-13650hx/16gb/nvidia-geforce-rtx-3050-6gb-laptop-gpu/twitch.png"></a>
 </div>
 
-
+<hr/>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
