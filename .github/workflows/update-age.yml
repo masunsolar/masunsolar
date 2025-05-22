@@ -1,0 +1,33 @@
+name: Atualizar Idade
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Roda todo dia à meia-noite (UTC)
+  workflow_dispatch:     # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Configura Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Instala dependências (se tiver)
+        run: pip install -r requirements.txt || true
+
+      - name: Roda o script de atualização
+        run: python update_age.py
+
+      - name: Commit e Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Atualizando idade automaticamente" || echo "Nada para commitar"
+          git push
