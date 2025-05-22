@@ -2,9 +2,9 @@
     Hello there
     <img src="navi.gif" width="60" height="60" alt="navi"/>
 </h1>
-I'm Natan S. Rodrigues, a 20-year-old enthusiast of computing, programming, and gaming. Currently pursuing a degree in Computer Science at UniFil (expected graduation in 2028) and have completed a Full Stack Python course at EBAC. I have a solid foundation in several programming languages including HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python.
-
-My skills also extend to the Microsoft Office Suite (Word, PowerPoint, Excel) and image/video editing. I was honored to win the Ideathon IntegraQM, showcasing my innovative problem-solving abilities.
+I'm Natan S. Rodrigues, a 20-year-old enthusiast of computing, programming, and gaming. Currently pursuing a degree in Computer Science at UniFil (expected graduation in 2028) and have completed a Full Stack Python course at EBAC. I have a solid foundation in several programming languages including HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python.  
+  
+My skills also extend to the Microsoft Office Suite (Word, PowerPoint, Excel) and image/video editing. I was honored to win the Ideathon IntegraQM, showcasing my innovative problem-solving abilities.  
 
 In my free time, I enjoy listening to music and playing games. I'm passionate about leveraging technology to create impactful solutions and I'm always eager to learn, grow, and contribute to the tech community.
 #
@@ -22,9 +22,8 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 </p>
 
 - 🔭 I’m currently not working 
-- 🌱 I’m currently learning Python, Java and other 
-- 📫 How to reach me: @nathansunrodriguez
 - 😄 Pronouns: he/him
+- 📫 How to reach me: @nathansunrodriguez
 - ⚡ Fun fact: I love music
   
 <hr/>
@@ -42,7 +41,6 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 <div align="center">
     <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i7-13650hx&memory=16gb&gpu=nvidia-geforce-rtx-3050-6gb-laptop-gpu&platform=windows"><img        src="https://www.pcgamebenchmark.com/signature/intel-core-i7-13650hx/16gb/nvidia-geforce-rtx-3050-6gb-laptop-gpu/twitch.png"></a>
 </div>
-
 <hr/>
 
 <h2>🌟 Skills & Tools: </h2>
@@ -55,6 +53,7 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
   <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Natan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+<br>
 
 <h3>🛠️ Tools & Platforms</h3>
 <div align="center" style="display: inline_block"> <br>
@@ -67,27 +66,35 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" alt="GitHub"/> 
 </div>
+<br>
+
 <h3>⚙️ Currently Learning</h3>
 <div align="center">
     <ul>
         <li>More about Python</li>
+        <li>More about Java</li>
+        <li>Working in my Startup</li>
+        <li>Studding about Financial Analyst</li>
     </ul>
 </div>
+<br>
 
 <h3>🏆 My trophies </h3>
 <div align="center">
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=masunsolar&theme=darkhub)](https://github.com/masunsolar/github-profile-trophy)
 </div>
-
+<br>
 <hr/>
 
-<div> 
+<h2>🌐 Find Me Online </h2>
+<br>
+<div align="center"> 
   <a href="https://www.instagram.com/nathansunrodriguez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:masunsolar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natanrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<hr/>
+<br>
 <p align="center"><img src="doom_look.gif" />&copy; 2024-present <a href="https://github.com/masunsolar/" target="_blank">Maçã</a>
 <hr/>
