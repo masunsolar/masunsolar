@@ -2,7 +2,7 @@
     Hello there
     <img src="navi.gif" width="60" height="60" alt="navi"/>
 </h1>
-I'm Natan S. Rodrigues, a 20-year-old enthusiast of computing, programming, and gaming. Currently pursuing a degree in Computer Science at UniFil and a Full Stack Python course at EBAC, I have a strong foundation in various programming languages including HTML, CSS, JavaScript, Java, C, PHP, Pascal, and Python.
+I'm Natan S. Rodrigues, a 20-year-old enthusiast of computing, programming, and gaming. Currently pursuing a degree in Computer Science at UniFil (graduating in 2028) and a Full Stack Python course at EBAC (already graduated), I have a strong foundation in various programming languages including HTML, CSS, JavaScript, Java, C, PHP, Pascal, and Python.
 
 My proficiency extends to Microsoft Office Suite (Word, PowerPoint, Excel) and I have a knack for image and video editing. I was honored to win the Ideathon IntegraQM, showcasing my innovative problem-solving skills.
 
@@ -54,7 +54,7 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 
 <div> 
   <a href="https://www.instagram.com/nathansunrodriguez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="masunsolar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:masunsolar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natanrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
