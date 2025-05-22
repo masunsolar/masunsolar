@@ -1,3 +1,4 @@
+import re
 from datetime import datetime
 
 # Data de nascimento
@@ -13,9 +14,9 @@ idade = hoje.year - nascimento.year - ((hoje.month, hoje.day) < (nascimento.mont
 with open("README.md", "r", encoding="utf-8") as file:
     conteudo = file.read()
 
-# Substitui o placeholder {{idade}} pela idade atual
-conteudo = conteudo.replace("{{idade}}", str(idade))
+# Usa regex para substituir qualquer idade no formato "xx-year-old"
+novo_conteudo = re.sub(r"\d{1,2}-year-old", f"{idade}-year-old", conteudo)
 
 # Salva o arquivo atualizado
 with open("README.md", "w", encoding="utf-8") as file:
-    file.write(conteudo)
+    file.write(novo_conteudo)
