@@ -2,7 +2,7 @@
     Hello there
     <img src="navi.gif" width="60" height="60" alt="navi"/>
 </h1>
-I'm Natan S. Rodrigues, a **{{idade}}**-year-old enthusiast of computing, programming, and gaming. Currently pursuing a degree in Computer Science at UniFil and a Full Stack Python course at EBAC, I have a strong foundation in various programming languages including HTML, CSS, JavaScript, Java, C, PHP, Pascal, and Python.
+I'm Natan S. Rodrigues, a {{idade}}-year-old enthusiast of computing, programming, and gaming. Currently pursuing a degree in Computer Science at UniFil and a Full Stack Python course at EBAC, I have a strong foundation in various programming languages including HTML, CSS, JavaScript, Java, C, PHP, Pascal, and Python.
 
 My proficiency extends to Microsoft Office Suite (Word, PowerPoint, Excel) and I have a knack for image and video editing. I was honored to win the Ideathon IntegraQM, showcasing my innovative problem-solving skills.
 
