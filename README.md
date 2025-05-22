@@ -47,7 +47,8 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 
 <hr/>
 <h2>🌟 Skills & Tools: </h2>
-<div align="center" style="display: inline_block"><br>
+<h3>🧠 Languages</h3>
+<div align="center" style="display: inline_block"> <br>
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -55,6 +56,18 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
   <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Natan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+<h3>🛠️ Tools & Platforms</h3>
+<div align="center" style="display: inline_block"> <br>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" height="30" alt="Windows"/> 
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="30" alt="VSCode"/> 
+    <img src="https://img.shields.io/badge/-Dev%20C++-blue?style=flat&logo=c&logoColor=white" height="30" alt="Dev C++"/>
+    <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white" height="30" alt="PyCharm"/>
+    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" height="30" alt="IntelliJ IDEA"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="Linux"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" alt="GitHub"/> 
+</div>
+
 
 <hr/>
 
