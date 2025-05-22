@@ -2,14 +2,12 @@
     Hello there
     <img src="navi.gif" width="60" height="60" alt="navi"/>
 </h1>
-I'm Natan S. Rodrigues, a 20-year-old enthusiast of computing, programming, and gaming. Currently pursuing a degree in Computer Science at UniFil (graduating in 2028) and a Full Stack Python course at EBAC (already graduated), I have a strong foundation in various programming languages including HTML, CSS, JavaScript, Java, C, PHP, Pascal, and Python.
+I'm Natan S. Rodrigues, a 20-year-old enthusiast of computing, programming, and gaming. Currently pursuing a degree in Computer Science at UniFil (expected graduation in 2028) and have completed a Full Stack Python course at EBAC. I have a solid foundation in several programming languages including HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python.
 
-My proficiency extends to Microsoft Office Suite (Word, PowerPoint, Excel) and I have a knack for image and video editing. I was honored to win the Ideathon IntegraQM, showcasing my innovative problem-solving skills.
+My skills also extend to the Microsoft Office Suite (Word, PowerPoint, Excel) and image/video editing. I was honored to win the Ideathon IntegraQM, showcasing my innovative problem-solving abilities.
 
-In my free time, I enjoy listening to music and playing games. I'm passionate about leveraging technology to create impactful solutions and always eager to learn and grow in the tech field.
+In my free time, I enjoy listening to music and playing games. I'm passionate about leveraging technology to create impactful solutions and I'm always eager to learn, grow, and contribute to the tech community.
 #
-
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=masunsolar&theme=darkhub)](https://github.com/masunsolar/github-profile-trophy)-->
 
 <p align="center">
   <i>Hey, listen</i>
@@ -74,6 +72,12 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
     <ul>
         <li>More about Python</li>
     </ul>
+</div>
+
+<h3>🏆 My trophies </h3>
+<div align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=masunsolar&theme=darkhub)](https://github.com/masunsolar/github-profile-trophy)
 </div>
 
 <hr/>
