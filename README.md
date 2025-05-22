@@ -33,6 +33,11 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar/github-readme-stats)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=masunsolar&theme=dark)](https://git.io/streak-stats)  
+
+</div>
 
 <hr/>
 <h2>My setup: </h2>
@@ -41,6 +46,7 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 </div>
 
 <hr/>
+<h2>🌟 Skills & Tools: </h2>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
