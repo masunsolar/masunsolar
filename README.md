@@ -46,8 +46,9 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
 </div>
 
 <hr/>
+
 <h2>🌟 Skills & Tools: </h2>
-<h3>🧠 Languages</h3>
+<h3>💻 Programming Languages</h3>
 <div align="center" style="display: inline_block"> <br>
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -56,6 +57,7 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
   <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Natan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
 <h3>🛠️ Tools & Platforms</h3>
 <div align="center" style="display: inline_block"> <br>
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" height="30" alt="Windows"/> 
@@ -67,7 +69,12 @@ In my free time, I enjoy listening to music and playing games. I'm passionate ab
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" alt="GitHub"/> 
 </div>
-
+<h3>⚙️ Currently Learning</h3>
+<div align="center">
+    <ul>
+        <li>More about Python</li>
+    </ul>
+</div>
 
 <hr/>
 
