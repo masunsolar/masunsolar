@@ -7,6 +7,7 @@ I'm **Natan S. Rodrigues**, a 20-year-old computer science student at **UniFil**
 I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.  
 
 💡 Winner of **Ideathon IntegraQM**. Passionate about leveraging technology to create solutions.
+
 🎧 Music lover | 🎮 Gamer | 👨‍💻 Tech enthusiast.
 
 <br>
@@ -19,12 +20,23 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
   <img src="navi2.gif" width="110" height="110" alt="navi"/>
 </p>
 
-
-
 - 🔭 I’m currently not working 
 - 😄 Pronouns: he/him
 - 📫 How to reach me: @nathansunrodriguez
 - ⚡ Fun fact: I love music
+
+---
+
+<details>
+    <summary>
+        
+## 🔥 GitHub Stats
+</summary>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar/github-readme-stats)
+
+</details>
 
 ---
 
@@ -59,6 +71,8 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" alt="GitHub"/> 
 </div>
 <br>
+
+---
 
 ## ⚙️ Currently Learning
 <div>
