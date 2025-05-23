@@ -24,8 +24,46 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 - 😄 Pronouns: he/him
 - 📫 How to reach me: @nathansunrodriguez
 - ⚡ Fun fact: I love music
+- 👾 Software Developer | Python & Java Developer | Full Stack Student | Tech Enthusiast
 
 ---
+<details>
+    <summary>
+        
+## 🏅 Certificates
+</summary>
+
+- 📜 Profissão TI: Zero ao Pro — EBAC
+- 📜 Introduction to Programming — EBAC
+- 📜 Career Planning — EBAC
+
+## Competitions & Hackathons
+- 🏆 Hackathon Participant — Participated in 3+ hackathons, developing innovative solutions under pressure.
+- 🏆 Ideathon Winner — 🥈 IntegraQM Ideathon, recognized for the best solution presented.
+
+## University Coursework (No Certificates Issued)
+- Software Architecture: Architecture and Requirements
+- Communication and Problem Solving
+- Basic Nutritional Concepts for Adults and Elderly
+- Requirements Management: Software Artifacts
+- Project Management: PMBOK-based Approach
+- Psychosocial Skills for Career Development
+- Introduction to Computing and General Systems Theory
+- Brazilian Sign Language (LIBRAS)
+- Digital Marketing
+- Agile Methodologies: Introduction to Agile
+- Public Speaking
+- First Aid
+- Baking: Practical Bread and Pasta Recipes
+- Software Testing: Introduction to Software Testing
+</details>
+
+[![Full Stack Python - EBAC](https://img.shields.io/badge/EBAC-Full_Stack_Python-blue)](https://www.ebaconline.com.br)
+[![Profissão TI: Zero ao Pro - EBAC](https://img.shields.io/badge/EBAC-Profissão_TI_Zero_ao_Pro-blue)](#)
+[![Intro to Programming - EBAC](https://img.shields.io/badge/EBAC-Intro_to_Programming-blue)](#)
+[![Career Planning - EBAC](https://img.shields.io/badge/EBAC-Career_Planning-blue)](#)
+[![Hackathon Participant](https://img.shields.io/badge/Hackathons-3+_Participations-important)](#)
+[![Ideathon Winner](https://img.shields.io/badge/Ideathon-Winner-yellow)](#)
 
 <details>
     <summary>
@@ -35,7 +73,6 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar/github-readme-stats)
-
 </details>
 
 ---
