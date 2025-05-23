@@ -73,16 +73,22 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 
 ---
 
-### 🏆 My Trophies:
-<div>
 
+<details>
+    <summary>
+        
+## 🏆 My Trophies: 
+</summary>
+    <div>
+        
 [![trophy](https://github-profile-trophy.vercel.app/?username=masunsolar&theme=darkhub)](https://github.com/masunsolar/github-profile-trophy) 
-</div>
-<br>
+    </div>
+    <br>
+</details>
 
 ---
 
-## 🌐 Find Me Online 
+<p font-size="24px"> 🌐 Find Me Online </p>  
 <br>
 <div align="center"> 
   <a href="https://www.instagram.com/nathansunrodriguez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
