@@ -5,11 +5,8 @@
 
 I'm **Natan S. Rodrigues**, a 20-year-old computer science student at **UniFil** (graduating 2028) and **Full Stack Python** course graduate at **EBAC**.  
 I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.  
-  
-My skills also extend to the Microsoft Office Suite (Word, PowerPoint, Excel) and image/video editing.  
 
 💡 Winner of **Ideathon IntegraQM**. Passionate about leveraging technology to create solutions.
-
 🎧 Music lover | 🎮 Gamer | 👨‍💻 Tech enthusiast.
 
 <br>
@@ -64,7 +61,7 @@ My skills also extend to the Microsoft Office Suite (Word, PowerPoint, Excel) an
 <br>
 
 ## ⚙️ Currently Learning
-<div align="center">
+<div>
     <ul>
         <li>🐍 Advanced Python</li>
         <li>☕ Java OOP Concepts</li>
@@ -73,6 +70,8 @@ My skills also extend to the Microsoft Office Suite (Word, PowerPoint, Excel) an
     </ul>
 </div>
 <br>
+
+---
 
 ### 🏆 My Trophies:
 <div>
