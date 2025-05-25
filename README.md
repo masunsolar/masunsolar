@@ -139,15 +139,7 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 
 ---
 
-<p font-size="24px"> 🌐 Find Me Online </p>  
-<br>
-<div align="center"> 
-  <a href="https://www.instagram.com/nathansunrodriguez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:masunsolar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/natanrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
----
+## 🌐 Find Me Online <div align="center">  <a href="https://www.instagram.com/nathansunrodriguez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="mailto:masunsolar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/natanrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
 <p align="center"><img src="doom_look.gif" />&copy; 2024-present <a href="https://github.com/masunsolar/" target="_blank">Maçã</a>
 <hr/>
