@@ -17,20 +17,17 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
   <img src="navi2.gif" width="110" height="110" alt="navi"/>
   <img src="navi2.gif" width="110" height="110" alt="navi"/>
   <img src="navi2.gif" width="110" height="110" alt="navi"/>
-  <img src="navi2.gif" width="110" height="110" alt="navi"/>
 </p>
 
 - 🔭 I’m currently not working 
-- 😄 Pronouns: he/him
 - 📫 How to reach me: @nathansunrodriguez
-- ⚡ Fun fact: I love music
 - 👾 Software Developer | Python & Java Developer | Full Stack Student | Tech Enthusiast
 
 ---
 <details>
     <summary>
         
-## 🏅 Certificates
+## 🏅 Certificates 
 </summary>
 
 - 📜 Profissão TI: Zero ao Pro — EBAC
@@ -125,6 +122,7 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 ---
 
 
+<!-- 
 <details>
     <summary>
         
@@ -135,9 +133,10 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 [![trophy](https://github-profile-trophy.vercel.app/?username=masunsolar&theme=darkhub)](https://github.com/masunsolar/github-profile-trophy) 
     </div>
     <br>
-</details>
+</details> 
+--- 
+-->
 
----
 
 ## 🌐 Find Me Online <div align="center">  <a href="https://www.instagram.com/nathansunrodriguez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="mailto:masunsolar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/natanrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
