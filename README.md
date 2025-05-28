@@ -68,8 +68,8 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 ## 🔥 GitHub Stats
 </summary>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar)
 </details>
 
 ---
