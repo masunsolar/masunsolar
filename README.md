@@ -112,6 +112,7 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 <div>
     <ul>
         <li>🐍 Advanced Python</li>
+        <li>🔗 Singly and Doubly Linked Lists</li>
         <li>☕ Java OOP Concepts</li>
         <li>🚀 Working on my Startup</li>
         <li>📈 Financial Analysis</li>
