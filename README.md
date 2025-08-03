@@ -70,6 +70,7 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&theme=vision-friendly-dark&card_width=1000)](https://github.com/masunsolar)
+
 </details>
 
 ---
