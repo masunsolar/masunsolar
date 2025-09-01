@@ -35,7 +35,7 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 - 📜 Career Planning — EBAC
 
 ## Competitions & Hackathons
-- 🏆 Hackathon Participant — Participated in 3+ hackathons, developing innovative solutions under pressure.
+- 🏆 Hackathon Participant — Participated in 5+ hackathons, developing innovative solutions under pressure.
 - 🏆 Ideathon Winner — 🥈 IntegraQM Ideathon, recognized for the best solution presented.
 
 ## University Coursework (No Certificates Issued)
