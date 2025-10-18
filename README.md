@@ -59,7 +59,7 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 [![Profissão TI: Zero ao Pro - EBAC](https://img.shields.io/badge/EBAC-Profissão_TI_Zero_ao_Pro-blue)](#)
 [![Intro to Programming - EBAC](https://img.shields.io/badge/EBAC-Intro_to_Programming-blue)](#)
 [![Career Planning - EBAC](https://img.shields.io/badge/EBAC-Career_Planning-blue)](#)
-[![Hackathon Participant](https://img.shields.io/badge/Hackathons-3+_Participations-important)](#)
+[![Hackathon Participant](https://img.shields.io/badge/Hackathons-5+_Participations-important)](#)
 [![Ideathon Winner](https://img.shields.io/badge/Ideathon-Winner-yellow)](#)
 
 <details>
