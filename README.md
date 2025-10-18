@@ -101,7 +101,7 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
     <img src="https://img.shields.io/badge/-Dev%20C++-blue?style=flat&logo=c&logoColor=white" height="30" alt="Dev C++"/>
     <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white" height="30" alt="PyCharm"/>
     <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" height="30" alt="IntelliJ IDEA"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="Linux"/> 
+<!--    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="Linux"/> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" alt="GitHub"/> 
 </div>
