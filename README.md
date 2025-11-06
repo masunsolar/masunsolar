@@ -38,6 +38,8 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 - 🏆 Hackathon Participant — Participated in 5+ hackathons, developing innovative solutions under pressure.
 - 🏆 Ideathon Winner — 🥈 IntegraQM Ideathon, recognized for the best solution presented.
 
+[![Python Programming with Red Hat (AD141 - RHA) - Ver. 9.0](URL_DA_IMAGEM_DO_BADGE_COPIADA_DO_CREDLY)](URL_DE_VERIFICACAO_COPIADA_DO_CREDLY)
+
 ## University Coursework (No Certificates Issued)
 - Software Architecture: Architecture and Requirements
 - Communication and Problem Solving
