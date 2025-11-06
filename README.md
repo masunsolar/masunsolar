@@ -33,14 +33,15 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 - 📜 Profissão TI: Zero ao Pro — EBAC
 - 📜 Introduction to Programming — EBAC
 - 📜 Career Planning — EBAC
+<a href="https://www.credly.com/badges/0b7ae651-71d7-4dd4-9ba9-785467e929e8/public_url" target="_blank">
+    <img src="./redhat.png" alt="Python Programming with Red Hat (AD141 - RHA) - Ver. 9.0" width="200" margin-left="20px">
+</a>
 
 ## Competitions & Hackathons
 - 🏆 Hackathon Participant — Participated in 5+ hackathons, developing innovative solutions under pressure.
 - 🏆 Ideathon Winner — 🥈 IntegraQM Ideathon, recognized for the best solution presented.
 
-[![Python Programming with Red Hat (AD141 - RHA) - Ver. 9.0](URL_DA_IMAGEM_DO_BADGE_COPIADA_DO_CREDLY)](URL_DE_VERIFICACAO_COPIADA_DO_CREDLY)
-
-## University Coursework (No Certificates Issued)
+## University Coursework
 - Software Architecture: Architecture and Requirements
 - Communication and Problem Solving
 - Basic Nutritional Concepts for Adults and Elderly
