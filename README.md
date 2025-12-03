@@ -8,7 +8,7 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 
 💡 Winner of **Ideathon IntegraQM**. Passionate about leveraging technology to create solutions.
 
-🎧 Music lover | 🎮 Gamer | 👨‍💻 Tech enthusiast.
+<div align="center"> 🎧 Music lover | 🎮 Gamer | 👨‍💻 Tech enthusiast.</div>
 
 <br>
 
@@ -33,7 +33,7 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 - 📜 Profissão TI: Zero ao Pro — EBAC
 - 📜 Introduction to Programming — EBAC
 - 📜 Career Planning — EBAC
-<a href="https://www.credly.com/badges/0b7ae651-71d7-4dd4-9ba9-785467e929e8/public_url" target="_blank">
+- <a href="https://www.credly.com/badges/0b7ae651-71d7-4dd4-9ba9-785467e929e8/public_url" target="_blank">
     <img src="./redhat.png" alt="Python Programming with Red Hat (AD141 - RHA) - Ver. 9.0" width="200" margin-left="20px">
 </a>
 
@@ -58,13 +58,18 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 - Software Testing: Introduction to Software Testing
 </details>
 
-[![Full Stack Python - EBAC](https://img.shields.io/badge/EBAC-Full_Stack_Python-blue)](https://www.ebaconline.com.br)
-[![Profissão TI: Zero ao Pro - EBAC](https://img.shields.io/badge/EBAC-Profissão_TI_Zero_ao_Pro-blue)](#)
-[![Intro to Programming - EBAC](https://img.shields.io/badge/EBAC-Intro_to_Programming-blue)](#)
-[![Career Planning - EBAC](https://img.shields.io/badge/EBAC-Career_Planning-blue)](#)
-[![Hackathon Participant](https://img.shields.io/badge/Hackathons-7+_Participations-important)](#)
-[![Ideathon Winner](https://img.shields.io/badge/Ideathon-Winner-yellow)](#)
-[![Python Programming with Red Hat (AD141 - RHA)](https://img.shields.io/badge/Red_Hat-Python%20Programming%20%28AD141%29-red)](https://www.credly.com/badges/0b7ae651-71d7-4dd4-9ba9-785467e929e8/public_url)
+<div align="center">
+
+  [![Full Stack Python - EBAC](https://img.shields.io/badge/EBAC-Full_Stack_Python-blue)](https://www.ebaconline.com.br)
+  [![Profissão TI: Zero ao Pro - EBAC](https://img.shields.io/badge/EBAC-Profissão_TI_Zero_ao_Pro-blue)](#)
+  [![Intro to Programming - EBAC](https://img.shields.io/badge/EBAC-Intro_to_Programming-blue)](#)
+  [![Career Planning - EBAC](https://img.shields.io/badge/EBAC-Career_Planning-blue)](#)
+  <br>
+  [![Hackathon Participant](https://img.shields.io/badge/Hackathons-7+_Participations-important)](#)
+  [![Ideathon Winner](https://img.shields.io/badge/Ideathon-Winner-yellow)](#)
+  [![Python Programming with Red Hat (AD141 - RHA)](https://img.shields.io/badge/Red_Hat-Python%20Programming%20%28AD141%29-red)](https://www.credly.com/badges/0b7ae651-71d7-4dd4-9ba9-785467e929e8/public_url)
+
+</div>
 
 <details>
     <summary>
@@ -116,11 +121,7 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 ## ⚙️ Currently Learning
 <div>
     <ul>
-        <li>🐍 Advanced Python</li>
-        <li>🔗 Singly and Doubly Linked Lists</li>
-        <li>☕ Java OOP Concepts</li>
-        <li>🚀 Working on my Startup</li>
-        <li>📈 Financial Analysis</li>
+        <li>🐍 Python</li>
     </ul>
 </div>
 <br>
