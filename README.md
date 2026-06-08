@@ -19,7 +19,7 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
   <img src="navi2.gif" width="110" height="110" alt="navi"/>
 </p>
 
-- 🔭 I’m currently not working 
+- 🔭 I’m currently working as part of the technical support team at UNIWARE.
 - 📫 How to reach me: @nathansunrodriguez
 - 👾 Software Developer | Python & Java Developer | Full Stack Student | Tech Enthusiast
 
