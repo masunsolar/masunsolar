@@ -77,8 +77,12 @@ I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.
 ## 🔥 GitHub Stats
 </summary>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=masunsolar&theme=dark&short&card_width=1100_numbers=true)](https://git.io/streak-stats)
+
+<!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masunsolar&theme=vision-friendly-dark&card_width=1100)](https://github.com/masunsolar)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masunsolar&theme=vision-friendly-dark&card_width=1100)](https://github.com/masunsolar)
+--> 
 
 </details>
 
