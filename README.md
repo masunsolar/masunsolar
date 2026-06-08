@@ -3,7 +3,7 @@
     <img src="navi.gif" width="60" height="60" alt="navi"/>
 </h1>
 
-I'm **Natan S. Rodrigues**, a 20-year-old computer science student at **UniFil** (graduating 2028) and **Full Stack Python** course graduate at **EBAC**.  
+I'm **Natan S. Rodrigues**, a 21-year-old computer science student at **UniFil** (graduating 2028) and **Full Stack Python** course graduate at **EBAC**.  
 I code in **HTML, CSS, JavaScript, Java, C, PHP, Pascal and Python**.  
 
 💡 Winner of **Ideathon IntegraQM**. Passionate about leveraging technology to create solutions.
